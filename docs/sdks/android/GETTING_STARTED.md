@@ -27,7 +27,7 @@ In order to capture the Appwrite OAuth callback url, the following activity need
 
 ### Init your SDK
 
-<p>Initialize your SDK with your Appwrite server API endpoint and project ID, which can be found in your project settings page.
+Initialize your SDK with your Appwrite server API endpoint and project ID, which can be found in your project settings page.
 
 ```kotlin
 import io.appwrite.Client
@@ -45,7 +45,7 @@ When trying to connect to Appwrite from an emulator or a mobile device, localhos
 
 ### Make Your First Request
 
-<p>Once your SDK object is set, access any of the Appwrite services and choose any request to send. Full documentation for any service method you would like to use can be found in your SDK documentation or in the [API References](https://appwrite.io/docs) section.
+Once your SDK object is set, access any of the Appwrite services and choose any request to send. Full documentation for any service method you would like to use can be found in your SDK documentation or in the [API References](https://appwrite.io/docs) section.
 
 ```kotlin
 // Register User
